@@ -40,16 +40,15 @@ The platform provides **role-based authentication** for Users and Admins and inc
 ---
 
 ## 📸 Screenshots / Demo
-> You can add screenshots or GIFs of the project here to showcase the UI and functionality.  
-Example:
-![Job Portal Screenshot]([path-to-your-screenshot.png](https://github.com/SriHari1912/Job-Portal/blob/main/Project%20Demo%20Screenshot.png))
+![Job Portal Screenshot](https://github.com/SriHari1912/Job-Portal/blob/main/Project%20Demo%20Screenshot.png)
 
 ---
 
 ## 📂 Future Enhancements
 - Add **notification system** for job applications  
 - Integrate **email alerts** for new job postings  
-- Implement **advanced analytics** for recruiters  
+- Implement **advanced analytics** for recruiters
+- Implement an **AI Automated Job Posting** for recruiters
 
 ---
 ## 📫 Contact
