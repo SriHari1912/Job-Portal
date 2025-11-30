@@ -1,7 +1,7 @@
 # 🏢 Job Portal Web Application
 
 **Project Duration:** Aug 2024 - Dec 2024  
-**Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL [§]  
+**Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL  
 
 ---
 
@@ -42,7 +42,7 @@ The platform provides **role-based authentication** for Users and Admins and inc
 ## 📸 Screenshots / Demo
 > You can add screenshots or GIFs of the project here to showcase the UI and functionality.  
 Example:
-![Job Portal Screenshot](path-to-your-screenshot.png)
+![Job Portal Screenshot]([path-to-your-screenshot.png](https://github.com/SriHari1912/Job-Portal/blob/main/Project%20Demo%20Screenshot.png))
 
 ---
 
